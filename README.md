@@ -6,4 +6,8 @@ Adem CLI is a bash command line interface that allows you to create awesome apps
 
 ## Installation
 
+Coming soon ...
+
 ## Developers
+
+Coming soon ...
